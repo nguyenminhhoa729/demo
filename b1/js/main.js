@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".slide .owl-carousel").owlCarousel({loop:!0,margin:10,nav:!0,autoplay:!0,autoplayTimeout:1e3,slideSpeed:1e3,responsive:{0:{items:1},600:{items:3},1e3:{items:4}}})}),$(document).ready(function(){$(".cust .owl-carousel").owlCarousel({loop:!1,margin:10,items:1,nav:!1})});
